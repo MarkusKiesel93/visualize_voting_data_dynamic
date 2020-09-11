@@ -1,0 +1,21 @@
+body {
+    padding-left: 11em;
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    color: #222222;
+    background-color: #fff;
+}
+
+.container {
+    display: table-cell;
+    vertical-align:middle;
+    height: 500px;
+    padding: 10px;
+    border: 0px solid black;
+    text-align: center;
+}
+#state {
+    font-size: 30px;
+}
+#party {
+    font-size: 30px;
+}
